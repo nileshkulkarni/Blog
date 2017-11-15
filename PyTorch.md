@@ -1,5 +1,4 @@
 
-=====
-Good resources for PyTorch
+#Good resources for PyTorch
 
-https://github.com/ritchieng/the-incredible-pytorch
+1. https://github.com/ritchieng/the-incredible-pytorch
